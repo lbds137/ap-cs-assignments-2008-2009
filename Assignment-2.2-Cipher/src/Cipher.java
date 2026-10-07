@@ -1,5 +1,5 @@
 /* Cipher.java
- * Vladimir Costescu
+ * Vladlena Costescu
  * AP Computer Science AB
  * Assignment-2.2-Cipher (due 11/19/08)
  * This is the main entry point for the cipher assignment.

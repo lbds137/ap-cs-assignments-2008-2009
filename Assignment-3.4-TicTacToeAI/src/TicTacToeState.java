@@ -7,7 +7,7 @@
  * Assignment 3.4
  * Landon School, 2009
  * 
- * Modified by: Vladimir Costescu
+ * Modified by: Vladlena Costescu
  */
 
 import java.io.PrintStream;

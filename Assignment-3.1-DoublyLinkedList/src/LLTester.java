@@ -1,5 +1,5 @@
 /* LLTester.java
- * Vladimir Costescu
+ * Vladlena Costescu
  * AP Computer Science AB
  * Assignment-3.1-DoublyLinkedList (due 01/21/09)
  * This is the LLTester class provided by Mr. Wulsin.

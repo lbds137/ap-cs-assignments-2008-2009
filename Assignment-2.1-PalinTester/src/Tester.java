@@ -1,5 +1,5 @@
 /* Tester.java
- * Vladimir Costescu
+ * Vladlena Costescu
  * AP Computer Science AB
  * Assignment-2.1-PalinTester (due 11/7/08)
  * This is the Tester class, which simply creates an instance of PalinTester and calls its printResults method.

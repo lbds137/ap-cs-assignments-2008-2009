@@ -1,5 +1,5 @@
 /* Tester.java
- * Vladimir Costescu
+ * Vladlena Costescu
  * AP Computer Science AB
  * Assignment-1.4-cards (due 10/13/08)
  * This is the tester class.

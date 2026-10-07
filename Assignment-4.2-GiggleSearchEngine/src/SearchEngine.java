@@ -6,7 +6,7 @@ import java.util.Set;
 import java.util.TreeSet;
 
 /* SearchEngine.java
- * Vladimir Costescu
+ * Vladlena Costescu
  * AP Computer Science AB
  * Assignment-4.2-GiggleSearchEngine (due 04/13/09)
  * This class implements the core of a search engine as described in Java Methods A & AB, Skylight Publishing.

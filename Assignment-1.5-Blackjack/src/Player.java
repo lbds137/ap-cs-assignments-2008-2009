@@ -1,5 +1,5 @@
 /* Player.java
- * Vladimir Costescu
+ * Vladlena Costescu
  * AP Computer Science AB
  * Assignment-1.5-Blackjack (due 10/23/08)
  * This is the player class.

@@ -1,5 +1,5 @@
 /* ZipTester.java
- * Vladimir Costescu
+ * Vladlena Costescu
  * AP Computer Science AB
  * Assignment-2.3-ZipCodes (due 11/25/08)
  * This is the ZipTester class.

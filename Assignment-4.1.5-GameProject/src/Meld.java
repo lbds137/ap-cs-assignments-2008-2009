@@ -1,5 +1,5 @@
 /* Meld.java
- * Vladimir Costescu
+ * Vladlena Costescu
  * AP Computer Science AB
  * GinRummy (due 04/13/09)
  * This implements a Meld, which extends GRCardSet.

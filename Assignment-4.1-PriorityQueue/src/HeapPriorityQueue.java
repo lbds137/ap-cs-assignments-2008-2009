@@ -1,5 +1,5 @@
 /* HeapPriorityQueue.java
- * Java Methods A & AB - modified by Vladimir Costescu
+ * Java Methods A & AB - modified by Vladlena Costescu
  * AP Computer Science AB
  * Assignment-4.1-PriorityQueue (due 03/18/09)
  * Implements a priority queue based on a min-heap.

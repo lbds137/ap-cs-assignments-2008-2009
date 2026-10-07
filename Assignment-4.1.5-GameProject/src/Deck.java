@@ -1,5 +1,5 @@
 /* Deck.java
- * Vladimir Costescu
+ * Vladlena Costescu
  * AP Computer Science AB
  * GinRummy (due 04/13/09)
  * This is the deck class, reused from 

@@ -1,5 +1,5 @@
 /* RightTriangle.java
- * Vladimir Costescu
+ * Vladlena Costescu
  * AP Computer Science AB
  * Assignment-1.5-Triangles (due 10/23/08)
  * This is the right triangle derived class.

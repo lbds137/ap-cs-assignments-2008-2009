@@ -1,5 +1,5 @@
 /* PalinTester.java
- * Vladimir Costescu
+ * Vladlena Costescu
  * AP Computer Science AB
  * Assignment-2.1-PalinTester (due 11/7/08)
  * This is the PalinTester class, which reads a text file at a user-provided location and tests for palindromes.

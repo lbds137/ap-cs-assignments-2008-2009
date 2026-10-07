@@ -1,5 +1,5 @@
 /* BinConvert.java
- * Vladimir Costescu
+ * Vladlena Costescu
  * AP Computer Science AB
  * Assignment-1.3-binConvert (due 10/1/08)
  * This program will convert decimal numbers to binary numbers and back.

@@ -1,5 +1,5 @@
 /* DblListNode.java
- * Vladimir Costescu
+ * Vladlena Costescu
  * AP Computer Science AB
  * Assignment-3.1-DoublyLinkedList (due 01/21/09)
  * This class implements a node in a doubly linked list.

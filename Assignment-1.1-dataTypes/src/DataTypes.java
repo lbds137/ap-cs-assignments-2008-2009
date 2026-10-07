@@ -1,5 +1,5 @@
 /* DataTypes.java
- * Vladimir Costescu
+ * Vladlena Costescu
  * AP Computer Science AB
  * Assignment-1.1-dataTypes (due 9/12/08)
  * The program stores and displays some variable values, demonstrating my understanding of how data types work.

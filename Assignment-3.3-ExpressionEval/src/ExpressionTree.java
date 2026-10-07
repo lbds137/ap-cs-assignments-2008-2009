@@ -1,5 +1,5 @@
 /* ExpressionTree.java
- * Vladimir Costescu
+ * Vladlena Costescu
  * AP Computer Science AB
  * Assignment-3.3-ExpressionEval (due 02/12/09)
  * This class partially implements an expression tree.

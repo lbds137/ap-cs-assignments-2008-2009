@@ -1,5 +1,5 @@
 /* Tester.java
- * Vladimir Costescu
+ * Vladlena Costescu
  * AP Computer Science AB
  * Assignment-2.1-GraphingCalc (due 11/7/08)
  * This is the Tester class.

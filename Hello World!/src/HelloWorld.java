@@ -1,6 +1,6 @@
 
 /* HelloWorld.java
- * Vladimir Costescu
+ * Vladlena Costescu
  * AP Computer Science AB
  * The program generates the text "Hello, World!" when run.
  */

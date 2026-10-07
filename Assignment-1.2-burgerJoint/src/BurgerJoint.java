@@ -1,5 +1,5 @@
 /* BurgerJoint.java
- * Vladimir Costescu
+ * Vladlena Costescu
  * AP Computer Science AB
  * Assignment-1.2-burgerJoint (due 9/22/08)
  * Welcome to Antonio's Pizza Palace! Please order what you would like.

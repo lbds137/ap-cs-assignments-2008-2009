@@ -1,5 +1,5 @@
 /* Tester.java
- * Vladimir Costescu
+ * Vladlena Costescu
  * AP Computer Science AB
  * Assignment-4.1-PriorityQueue (due 03/18/09)
  * This is the tester class.

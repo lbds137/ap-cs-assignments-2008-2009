@@ -1,5 +1,5 @@
 /* LineEquation.java
- * Vladimir Costescu
+ * Vladlena Costescu
  * AP Computer Science AB
  * Classwork
  * The program accepts two ordered pairs and yields the equation of the line containing the points in slope / intercept form.

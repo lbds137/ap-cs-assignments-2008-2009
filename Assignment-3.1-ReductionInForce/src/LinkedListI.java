@@ -1,5 +1,5 @@
 /* LinkedListI.java
- * Vladimir Costescu
+ * Vladlena Costescu
  * AP Computer Science AB
  * Assignment-3.1-ReductionInForce (due 01/21/09)
  * This is the LinkedListI interface provided by Mr. Wulsin.

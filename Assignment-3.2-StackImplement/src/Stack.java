@@ -1,5 +1,5 @@
 /* Stack.java
- * Vladimir Costescu
+ * Vladlena Costescu
  * AP Computer Science AB
  * Assignment-3.2-StackImplement (due 01/28/09)
  * This class implements a stack using a doubly linked list.

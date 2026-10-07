@@ -1,5 +1,5 @@
 /* BinarySearchTreeNode.java
- * Vladimir Costescu
+ * Vladlena Costescu
  * AP Computer Science AB
  * Assignment-3.3-BinarySearchTreeNode (due 02/12/09)
  * This class implements a binary search tree node.

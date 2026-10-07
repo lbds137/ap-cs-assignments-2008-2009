@@ -1,5 +1,5 @@
 /* PiApprox.java
- * Vladimir Costescu
+ * Vladlena Costescu
  * AP Computer Science AB
  * Assignment-1.3-nFactorial (due 10/1/08)
  * This program will calculate an approximation of pi.

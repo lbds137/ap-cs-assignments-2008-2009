@@ -1,5 +1,5 @@
 /* Validation.java
- * Vladimir Costescu
+ * Vladlena Costescu
  * AP Computer Science AB
  * Assignment-1.5-Blackjack (due 10/22/08)
  * This class contains useful methods for user input validation.

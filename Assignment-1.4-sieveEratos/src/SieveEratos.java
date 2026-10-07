@@ -1,5 +1,5 @@
 /* SieveEratos.java
- * Vladimir Costescu
+ * Vladlena Costescu
  * AP Computer Science AB
  * Assignment-1.4-sieveEratos (due 10/13/08)
  * This program will display all primes less than or equal to a number entered by the user.

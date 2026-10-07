@@ -1,5 +1,5 @@
 /* MovingDisk.java
- * Vladimir Costescu
+ * Vladlena Costescu
  * AP Computer Science AB
  * Assignment-1.1-debugCode (due 9/12/08)
  * The program generates a moving disk. I am NOT the author of this program, merely the debugger.

@@ -1,5 +1,5 @@
 /* QuadFormula.java
- * Vladimir Costescu
+ * Vladlena Costescu
  * AP Computer Science AB
  * Assignment-1.2-quadFormula (due 9/22/08)
  * The program accepts values for coefficients a, b, and c 
